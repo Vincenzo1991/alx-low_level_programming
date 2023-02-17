@@ -3,20 +3,20 @@
 #include <time.h>
 
 /**
- * main - Entry point
- * Return: Always 0 (success)
+ * main - Entry print
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 
 {
 
-	int d,
+	int v;
 
-	for (d = '0'; d <= '9'; d++)
-	putchar(d);
+	for (v = '0'; v <= '9'; v++)
+	putchar(v);
 	putchar('\n');
 
-	return (0);	
+	return (0);
 
 }
