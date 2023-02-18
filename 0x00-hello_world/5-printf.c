@@ -2,7 +2,7 @@
 
 
 /**
- * main - prints "with proper grammar, but the outcome is a piece of art," 
+ * main - prints "with proper grammar, but the outcome is a piece of art,"
  * Return: Always0.
  */
 
