@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- * print_number - prints an integer
- * @n: The integer to prints
+ * print_number - prints an integer.
+ * @n: The integer to prints.
  * Return: Nothing!
  */
 
@@ -16,7 +16,7 @@ void print_number(int n)
 	{
 	n *= -1;
 	k = n;
-	_putchar('_');
+	_putchar('-');
 	}
 	k /= 10;
 	if (k != 0)
