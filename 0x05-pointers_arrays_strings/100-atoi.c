@@ -34,4 +34,4 @@ int _atoi(char *s)
 	}
 	ni *= nin;
 	return (ni);
-}	
+}
